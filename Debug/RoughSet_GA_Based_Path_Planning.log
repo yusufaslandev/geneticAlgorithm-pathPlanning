@@ -1,0 +1,10 @@
+﻿  GeneticAlgorithm.cpp
+c:\users\tolunay\desktop\ders\2017-2018 guz\artificial inteligence\proje\roughset_ga_based_path_planning_10\roughset_ga_based_path_planning\geneticalgorithm.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  myRobot.cpp
+  Test.cpp
+c:\users\tolunay\desktop\ders\2017-2018 guz\artificial inteligence\proje\roughset_ga_based_path_planning_10\roughset_ga_based_path_planning\test.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  RoughSet_GA_Based_Path_Planning.vcxproj -> C:\Users\Tolunay\Desktop\ders\2017-2018 Guz\Artificial Inteligence\proje\RoughSet_GA_Based_Path_Planning_10\Debug\RoughSet_GA_Based_Path_Planning.exe
+  RoughSet_GA_Based_Path_Planning.vcxproj -> C:\Users\Tolunay\Desktop\ders\2017-2018 Guz\Artificial Inteligence\proje\RoughSet_GA_Based_Path_Planning_10\Debug\RoughSet_GA_Based_Path_Planning.pdb (Partial PDB)
