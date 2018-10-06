@@ -31,6 +31,25 @@ def fillSquare(turtle, row, col):
     turtle.right(90)
   turtle.end_fill()
 
+def fillSquare2(turtle, row, col):
+      turtle.fillcolor('green')
+      turtle.up()
+      turtle.goto(col, row)
+      turtle.begin_fill()
+      for i in range(4):
+        turtle.forward(1)
+        turtle.right(90)
+      turtle.end_fill()
+
+def fillSquare3(turtle, row, col):
+      turtle.fillcolor('blue')
+      turtle.up()
+      turtle.goto(col, row)
+      turtle.begin_fill()
+      for i in range(4):
+        turtle.forward(1)
+        turtle.right(90)
+      turtle.end_fill()      
 
 def main():
   # Get the user's input.
